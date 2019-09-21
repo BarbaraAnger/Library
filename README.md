@@ -1,2 +1,20 @@
 # Library
-This is a project which I build a library for ThoughtWorks - Inovation Center internship.
+This project purpose is to enhance my skills on Java.
+This is a console app.
+
+# Structure
+```
+├── .idea
+├── _config.yml
+├── src
+|   ├── com
+|      ├── Library
+|         ├── Autor
+|         ├── Biblioteca
+|         ├── Library
+|         └── Livro
+├── Resources
+|   └── Biblioteca.txt
+├── Biblioteca.iml
+└── README.md
+``` 

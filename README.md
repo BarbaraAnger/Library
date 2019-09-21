@@ -13,8 +13,8 @@ This is a console app.
 |         ├── Biblioteca
 |         ├── Library
 |         └── Livro
-├── Resources
-|   └── Biblioteca.txt
+|   ├── Resources
+|       └── Biblioteca.txt
 ├── Biblioteca.iml
 └── README.md
 ``` 

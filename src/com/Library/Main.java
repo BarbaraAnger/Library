@@ -7,7 +7,7 @@
 package com.Library;
 import java.util.Scanner;
 
-public class Biblioteca {
+public class Main {
     public static void main(String[] args) {
         System.out.println("O que deseja fazer?\n");
         System.out.println("6 - Lista de livros");
